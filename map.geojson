@@ -1,0 +1,285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7914127,
+                    106.7006018
+                ]
+            },
+            "properties": {
+                "Address": "36 Nguyễn Bỉnh Khiêm",
+                "name": "No. 1 Massage & Body Work"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7958569,
+                    106.731055
+                ]
+            },
+            "properties": {
+                "Address": "60a Đường Trần Não",
+                "name": "P.R.O - Massage Therapy & Spa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81028,
+                    106.7089
+                ]
+            },
+            "properties": {
+                "Address": "273, Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh",
+                "name": "Dịch Vụ Massage Thành Công"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7980569,
+                    106.7304675
+                ]
+            },
+            "properties": {
+                "Address": "29 Đường số 19",
+                "name": "Massage Yuan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7988395,
+                    106.7172904
+                ]
+            },
+            "properties": {
+                "Address": "Cantavil Hoàn Cầu, Lầu 1, Tòa nhà, Điện Biên Phủ",
+                "name": "AYA Spa & Skincare Bình Thạnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.802966,
+                    106.729781
+                ]
+            },
+            "properties": {
+                "Address": "21/1 Xuân Thủy",
+                "name": "AVEDA Herbal & Wellness"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8109147,
+                    106.7024119
+                ]
+            },
+            "properties": {
+                "Address": "245G Chu Văn An",
+                "name": "Massage Khiếm Thị - Blind Massage | Xe Bus Yêu Thương"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8040378,
+                    106.7316752
+                ]
+            },
+            "properties": {
+                "Address": "33/5 Quốc Hương",
+                "name": "Thai Massage- \"Sawadee!\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.809782,
+                    106.730957
+                ]
+            },
+            "properties": {
+                "Address": "33/7 Quốc Hương",
+                "name": "Thai Massage- \"Sawadee!\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.813661,
+                    106.729047
+                ]
+            },
+            "properties": {
+                "Address": "Morin Apartment, 5/19 street 64",
+                "name": "Leelawadee Thai Therapy Thao Dien."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.792139,
+                    106.697846
+                ]
+            },
+            "properties": {
+                "Address": "85 Đường Mai Thị Lựu",
+                "name": "Ngọc Anh Spa 85 MTL Q1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.790765,
+                    106.700987
+                ]
+            },
+            "properties": {
+                "Address": "31/1 Nguyễn Bỉnh Khiêm",
+                "name": "Massage Ngọc Anh - Add zalo sở hữu map"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7884459,
+                    106.6975948
+                ]
+            },
+            "properties": {
+                "Address": "120 Đường Nguyễn Văn Thủ",
+                "name": "FUJI SPA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.809782,
+                    106.730957
+                ]
+            },
+            "properties": {
+                "Address": "33/7 Quốc Hương",
+                "name": "Massage Thái"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8056383,
+                    106.7149632
+                ]
+            },
+            "properties": {
+                "Address": "157 26 D2",
+                "name": "Massage Hồng Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.810763,
+                    106.735204
+                ]
+            },
+            "properties": {
+                "Address": "67 Đường Số 1",
+                "name": "ATX Massage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.802253,
+                    106.73608
+                ]
+            },
+            "properties": {
+                "Address": "31/3 Nguyễn Đăng Giai",
+                "name": "Golden Hands Pilates"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8029802,
+                    106.7210094
+                ]
+            },
+            "properties": {
+                "Address": "167/4A Tòa Nhà Bcon Tower",
+                "name": "Đá Nóng Massage Mai Hân"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.815779,
+                    106.713378
+                ]
+            },
+            "properties": {
+                "Address": "Hẻm 204/4d quốc lộ 13 phường 26 quận Bình Thạnh",
+                "name": "Massage khiếm thị Nhật Thanh Việt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8048352,
+                    106.7076898
+                ]
+            },
+            "properties": {
+                "Address": "118/83C3 Bạch Đằng",
+                "name": "Đá Massage Volca - Cung Cấp Đá Nóng Massage và Đá Lạnh Massage Tự Nhiên"
+            }
+        }
+    ]
+}
